@@ -722,6 +722,7 @@ p {
   .section.image {
     padding: 61px 10px;
     background-attachment: scroll;
+    background-color: #1a1a1a;
   }
 
   .section.footer {
