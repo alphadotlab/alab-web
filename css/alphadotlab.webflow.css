@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   margin: 0px 0px 10px;
-  color: #4d4d4d;
+  color: #242424;
   font-size: 30px;
   line-height: 27px;
   font-weight: 700;
@@ -127,7 +127,7 @@ p {
 
 .nav-link {
   padding: 30px 30px;
-  border-right: 1px solid #4d4d4d;
+  border-right: 1px solid #242424;
   -webkit-transition: background-color 100ms ease, margin 500ms ease;
   transition: background-color 100ms ease, margin 500ms ease;
   font-family: 'Roboto Condensed', sans-serif;
@@ -158,7 +158,7 @@ p {
   overflow: hidden;
   padding: 18px 22px 22px;
   float: right;
-  border-left: 1px solid #4d4d4d;
+  border-left: 1px solid #242424;
   opacity: 0.8;
   color: hsla(0, 0%, 92.9%, 0);
 }
@@ -183,7 +183,7 @@ p {
 
 .nav-menu {
   float: left;
-  border-left: 1px solid #4d4d4d;
+  border-left: 1px solid #242424;
 }
 
 .alab-logo {
@@ -209,7 +209,7 @@ p {
 .section {
   padding-top: 80px;
   padding-bottom: 80px;
-  color: #4d4d4d;
+  color: #242424;
 }
 
 .section.grey {
@@ -221,7 +221,7 @@ p {
 
 .section.beige {
   background-color: #c7aa8b;
-  color: #4d4d4d;
+  color: #242424;
 }
 
 .section.image {
@@ -401,7 +401,7 @@ p {
 
 .footer-text {
   margin-top: 3px;
-  color: #858585;
+  color: #c4c4c4;
 }
 
 .footer-text.address {
@@ -498,7 +498,7 @@ p {
 
 .prev-project-wrapper {
   padding-right: 30px;
-  border-right: 3px solid #4d4d4d;
+  border-right: 3px solid #242424;
   text-align: right;
 }
 
@@ -636,14 +636,14 @@ p {
     max-width: 100%;
     padding-right: 25px;
     padding-left: 25px;
-    border-top: 1px solid #4d4d4d;
+    border-top: 1px solid #242424;
     border-right-style: none;
   }
 
   .nav-link.social-icons {
     padding-right: 21px;
     padding-left: 21px;
-    border-right-color: #4d4d4d;
+    border-right-color: #242424;
   }
 
   .nav-menu {
