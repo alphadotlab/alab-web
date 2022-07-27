@@ -228,6 +228,7 @@ p {
   padding-top: 100px;
   padding-bottom: 100px;
   background-image: url('../images/ocean.jpg');
+  background-color: #1a1a1a;
   background-position: 50% 50%;
   background-size: cover;
   background-attachment: fixed;
