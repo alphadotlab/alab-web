@@ -570,7 +570,10 @@ p {
 .image-2 {
   border: 1px solid transparent;
 }
-
+.image-shop {
+  border-radius: 8px;
+  box-shadow: 0 8px 16px #aaa;
+}
 .heading-2 {
   text-align: center;
 }
