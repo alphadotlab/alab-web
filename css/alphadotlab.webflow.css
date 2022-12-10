@@ -144,6 +144,9 @@ p {
   color: #fff;
 }
 
+.espalogo {
+  display: none;
+}
 .nav-link.w--current {
   background-color: #000;
   box-shadow: none;
@@ -802,6 +805,10 @@ p {
   .main-heading {
     width: 100%;
     font-size: 48px;
+  }
+  .espalogo {
+    display: inline-block;
+    padding-bottom: 22px;
   }
 
   .slider {
